@@ -1,7 +1,7 @@
 # __Startup Landing Page__
 ### __Email Integration Exercise__
 - Practice exercise for Zero To Mastery Complete Web Developer course.
-- Integrates with Mailchimp autoresponder.
+- Integrates with Mailchimp for double opt-in to reduce spam.
 - Includes embedded form with custom styles. 
 - Want to try it out? <a href="https://exist888.github.io/email-integration-exercise/">__Visit page__</a>.
 <br/>
